@@ -1,4 +1,4 @@
-# CSharp12Catventures :cat:
+# CSharp12 Catventures :cat:
 
 Welcome to CSharp12Catventures, where we explore the exciting new features of C# 12, one paw-step at a time!
 
