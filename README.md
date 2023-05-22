@@ -24,7 +24,7 @@ The .NET 8 Preview SDK includes everything you need to start building .NET appli
 
 ## How to Use :paw_prints:
 
-To use this repository, simply clone it to your local machine, navigate to the project you're interested in, and open it in your favorite IDE. Feel free to play around with the code, experiment with the new features, and make it your own!
+To use this repository, simply clone it to your local machine, navigate to the project you're interested in, and open it in Visual Studio 2022 Preview. Feel free to play around with the code, experiment with the new features, and make it your own!
 
 ## Feedback :speech_balloon:
 
